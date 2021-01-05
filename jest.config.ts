@@ -8,6 +8,9 @@ export default {
   transform: {
     '.+\\.ts$': 'ts-jest'
   },
+  moduleNameMapper: {
+    '@/(.*)': '<rootDir>/src/$1'
+  },
   coverageProvider: 'v8',
   clearMocks: true
 }
