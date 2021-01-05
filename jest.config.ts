@@ -12,7 +12,5 @@ export default {
   moduleNameMapper: {
     '@/(.*)': '<rootDir>/src/$1',
     '\\.scss$': 'identity-obj-proxy'
-  },
-  coverageProvider: 'v8',
-  clearMocks: true
+  }
 }
