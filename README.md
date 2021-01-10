@@ -3,4 +3,4 @@
 
 # 4Dev-clean-react
 
-A curse to create a complete system in ReactJS with Typescript and Hooks, using TDD, Clean Architecture, Design Patterns and SOLID. 
+A course to create a complete system in ReactJS with Typescript and Hooks, using TDD, Clean Architecture, Design Patterns and SOLID. 
